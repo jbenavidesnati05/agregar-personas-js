@@ -1,0 +1,22 @@
+
+p{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+form{
+    border: 3px solid blue;
+    border-radius: 10px;
+    width: 40%;
+    margin: auto;
+    padding: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+div .container .tabla{
+    width: 50%;
+    margin: auto;
+}
+
